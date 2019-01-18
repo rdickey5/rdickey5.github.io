@@ -1,0 +1,33 @@
+h1{
+    color: red;
+    font-size: 90px;
+}
+
+#third {
+    font-size: 40px;
+    color: red
+}
+img {
+    width: 100px
+}
+#farley {
+    width: 200px
+}
+#cody {
+    width: 265px
+}
+.tacos {
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.birdman {
+    color: green;
+    font-size: 50px      
+}
+.background {
+    background-color: aquamarine;
+    background-image: url(eagles.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
