@@ -1,33 +1,103 @@
-h1{
-    color: red;
-    font-size: 90px;
+body {
+    font-family: 'Source Sans Pro', sans-serif;
 }
-
-#third {
-    font-size: 40px;
-    color: red
+a.Edison-logo img {
+width: 75px;
 }
-img {
-    width: 100px
-}
-#farley {
-    width: 200px
-}
-#cody {
-    width: 265px
-}
-.tacos {
-    color: blueviolet;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-}
-.birdman {
-    color: green;
-    font-size: 50px      
-}
-.background {
-    background-color: aquamarine;
-    background-image: url(eagles.jpg);
+.jumbotron {
+    background-image: url(lighbulb\ 3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-
+    background-position: center;
+    height: 850px;
+    padding-top: 25px;
 }
+.display-4 {
+    color: white
+}
+.lead {
+    color: white;
+}
+img {
+    width: 100%;
+}
+.Team-header {
+    font-size: 50px;
+    padding: 1px 1px 1px 200px;
+    color: black;
+}
+.jumbotron2 {
+    background-image: url(strategy3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+}
+.display-2 {
+    text-align: center;
+    color: white;
+}
+.lead2 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+}
+.criteria-header {
+    text-align: center;
+    color:black;
+    font-weight: bold;
+}
+.table {
+    color: black;
+    font-size: 25px;
+    
+}
+.right {
+    font-weight: bold;
+   
+}
+
+.Edison-logo2 img {
+    width: 300px;
+    padding: 1px 1px 1px 100px;
+    }
+.background3 {
+        background-color:white;
+        background-image: url(Edison_Partners_NEW_Logo.png);
+        background-repeat: repeat;
+    
+    }
+    .construction {
+        text-align: center;
+        color: red;
+        font-size: 75px;
+        font-weight: bold;
+    }
+
+.jumbotron5 {
+        background-image: url(Office\ space.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        height: 400px;
+        padding-top: 25px;
+        
+    }
+    .display-6 {
+        text-align: center;
+        color: white;
+        font-size: 80px;
+        font-weight: bold;
+    }
+    .lead-3 {
+        text-align: center;
+        color: white;
+        font-size: 35px;
+    }
+    .Names {
+      
+            font-size: 50px;
+            text-align: center;
+            color: black;
+    
+    }
